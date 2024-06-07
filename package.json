@@ -1,8 +1,8 @@
 {
-  "name": "osuny-hugo-template",
+  "name": "osuny-template",
   "version": "1.0.1",
   "repository": "https://github.com/noesya/osuny-hugo-template",
-  "author": "noesya",
+  "author": "osunyorg",
   "license": "MIT",
   "dependencies": {
     "osuny-hugo-theme": "./themes/osuny-hugo-theme-aaa"
