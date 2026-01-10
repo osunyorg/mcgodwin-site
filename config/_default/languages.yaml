@@ -10,15 +10,12 @@ fr:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
   taxonomies:
     administrator: administrators
     author: authors
     diploma: diplomas
     events_category: events_categories
+    jobs_category: jobs_categories
     location: locations
     organizations_category: organizations_categories
     pages_category: pages_categories
